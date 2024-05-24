@@ -1,6 +1,4 @@
-# Ensure you have BeautifulSoup installed
-# You can install it using pip:
-# pip install beautifulsoup4
+
 
 from email import feedparser
 from html import unescape
